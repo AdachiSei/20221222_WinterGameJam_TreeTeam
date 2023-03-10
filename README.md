@@ -1,5 +1,6 @@
 # かがみもちつみつみ
 ### もち を つみつみして たかいかがみもち を めざせ！
+###　投票数2位
 - 仕様書 https://docs.google.com/spreadsheets/d/1fZKIEQ1wLHpu675OlSiWEhWmE7J2OHDTKfpAQ_mjDS4/edit#gid=1089097460
 ## プレイ動画
 
